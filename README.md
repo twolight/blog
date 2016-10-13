@@ -14,3 +14,5 @@ Record some famous blog about Android
 [Android 状态栏着色实践](http://www.jianshu.com/p/bae25b5eb867)
 
 [深入浅出RxJava](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0305/2545.html)
+
+[[译]关于 Android Adapter，你的实现方式可能一直都有问题](http://www.jianshu.com/p/c6a44e18badb)
