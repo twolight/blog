@@ -16,3 +16,12 @@ Record some famous blog about Android
 [深入浅出RxJava](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0305/2545.html)
 
 [[译]关于 Android Adapter，你的实现方式可能一直都有问题](http://www.jianshu.com/p/c6a44e18badb)
+
+
+[用RxJava实现事件总线(Event Bus)](http://www.jianshu.com/p/ca090f6e2fe2)
+
+[Retrofit — Getting Started and Create an Android Client](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
+
+[Implementing an Event Bus With RxJava - RxBus](http://blog.kaush.co/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/)
+
+[Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
