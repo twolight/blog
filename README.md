@@ -25,3 +25,5 @@ Record some famous blog about Android
 [Implementing an Event Bus With RxJava - RxBus](http://blog.kaush.co/2014/12/24/implementing-an-event-bus-with-rxjava-rxbus/)
 
 [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
+
+[Android7.0(Android N)适配教程，心得](http://blog.csdn.net/fengyuzhengfan/article/details/52688232)
