@@ -27,3 +27,7 @@ Some useful Android blog
 [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 
 [Android7.0(Android N)适配教程，心得](http://blog.csdn.net/fengyuzhengfan/article/details/52688232)
+
+[RxJava系列1(简介)](https://zhuanlan.zhihu.com/p/22039934)
+
+[有哪些比较容易被开发人员忽略的能提高Android软件性能的细节?](https://www.zhihu.com/question/28154442/answer/157231827)
