@@ -31,3 +31,7 @@ Some useful Android blog
 [RxJava系列1(简介)](https://zhuanlan.zhihu.com/p/22039934)
 
 [有哪些比较容易被开发人员忽略的能提高Android软件性能的细节?](https://www.zhihu.com/question/28154442/answer/157231827)
+
+[70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
+
+ [Android图片加载框架最全解析（二），从源码的角度理解Glide的执行流程](http://blog.csdn.net/guolin_blog/article/details/53939176)
