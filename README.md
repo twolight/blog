@@ -35,3 +35,30 @@ Some useful Android blog
 [70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
 
  [Android图片加载框架最全解析（二），从源码的角度理解Glide的执行流程](http://blog.csdn.net/guolin_blog/article/details/53939176)
+
+[Android AOP之字节码插桩](http://www.jianshu.com/p/c202853059b4)
+
+[Android APP启动优化](http://wuxiaolong.me/2017/03/13/appStart/)
+
+[Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
+
+[Android 利用Gradle实现差异化构建](http://mp.weixin.qq.com/s/H306PkuT9fC2irNVFlXVeg)
+
+[一些关于加速Gradle构建的个人经验](http://droidyue.com/blog/2017/04/16/speedup-gradle-building/index.html)
+
+[从卡顿到秒开：途牛Android端启动优化最佳实践](https://mp.weixin.qq.com/s/rQEa9Bevef7PlJ477vjT4g)
+
+[移动端APM性能监控](https://mp.weixin.qq.com/s/Yec5t2eU33Bv4srs5SPiTQ)
+
+[流利说团队：Building a Better Recorder in Android](https://mp.weixin.qq.com/s/optU6bi8rmsoRCQG5leqxg)
+
+[悦跑圈 Android 单业务开发，提高编译效率 15 倍](http://link.zhihu.com/?target=https%3A//www.diycode.cc/topics/761)
+
+[腾讯Bugly：Android插件技术实战总结](https://mp.weixin.qq.com/s/1p5Y0f5XdVXN2EZYT0AM_A)
+
+[有赞 App 模块化实战经验总结](http://link.zhihu.com/?target=https%3A//youzanmobile.github.io/2017/04/14/youzan-app-modularization/)
+
+[使用Espresso实现完整覆盖的App功能测试](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2363)
+
+[使用Robolectric单元测试，Robotium 做UI测试]()
+
