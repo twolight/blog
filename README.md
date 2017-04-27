@@ -62,3 +62,17 @@ Some useful Android blog
 
 [使用Robolectric单元测试，Robotium 做UI测试]()
 
+[进程的Binder线程池工作过程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2405)
+
+[Android Fresco 中 GIF 实现原理](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2408)
+
+[Android5.0中 hwui 中 RenderThread 工作流程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2409)
+
+[Java 技术之反射](http://link.zhihu.com/?target=http%3A//wingjay.com/2017/04/26/Java-%25E6%258A%2580%25E6%259C%25AF%25E4%25B9%258B%25E5%258F%258D%25E5%25B0%2584/)
+
+[我的实操经验分享：如何通过Adsense赚3万美金](http://link.zhihu.com/?target=http%3A//gitbook.cn/books/58e48c22c59d53926e611996/index.html)
+
+[Android5.0中 hwui 中 RenderThread 工作流程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2409)
+
+[微信 SQLite 数据库修复实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzAwNDY1ODY2OQ%3D%3D%26mid%3D2649286467%26idx%3D1%26sn%3Dea5b6dbfecffd33e333ec814473e1313%26chksm%3D8334c3c1b4434ad7c364ff3acae1e62bc5e871a7350aa9cdcb24bd299b42875f0b020acb3620)
+
