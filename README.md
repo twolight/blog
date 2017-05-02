@@ -41,7 +41,7 @@
 
 # 工具
 
-# 开发中
+# 开发
 
 * 编译构建
 
@@ -103,14 +103,38 @@
 
 # 优化
 
-[微信 SQLite 数据库修复实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzAwNDY1ODY2OQ%3D%3D%26mid%3D2649286467%26idx%3D1%26sn%3Dea5b6dbfecffd33e333ec814473e1313%26chksm%3D8334c3c1b4434ad7c364ff3acae1e62bc5e871a7350aa9cdcb24bd299b42875f0b020acb3620)
+* 启动优化
 
-[Android APP启动优化](http://wuxiaolong.me/2017/03/13/appStart/)
+  [从卡顿到秒开：途牛Android端启动优化最佳实践](https://mp.weixin.qq.com/s/rQEa9Bevef7PlJ477vjT4g)
 
-[有哪些比较容易被开发人员忽略的能提高Android软件性能的细节?](https://www.zhihu.com/question/28154442/answer/157231827)
+  [Android APP启动优化](http://wuxiaolong.me/2017/03/13/appStart/)
 
-[从卡顿到秒开：途牛Android端启动优化最佳实践](https://mp.weixin.qq.com/s/rQEa9Bevef7PlJ477vjT4g)
+* 包体
 
-[Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
+  [Android Apk瘦身](http://wuxiaolong.me/2017/03/19/ReduceAPKSize/)
 
-[移动端APM性能监控](https://mp.weixin.qq.com/s/Yec5t2eU33Bv4srs5SPiTQ)
+* 内存
+
+  ​
+
+* 网络
+
+  ​
+
+* 性能
+
+  [有哪些比较容易被开发人员忽略的能提高Android软件性能的细节?](https://www.zhihu.com/question/28154442/answer/157231827)
+
+  [Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
+
+  [移动端APM性能监控](https://mp.weixin.qq.com/s/Yec5t2eU33Bv4srs5SPiTQ)
+
+* 数据库
+
+  [微信 SQLite 数据库修复实践](http://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzAwNDY1ODY2OQ%3D%3D%26mid%3D2649286467%26idx%3D1%26sn%3Dea5b6dbfecffd33e333ec814473e1313%26chksm%3D8334c3c1b4434ad7c364ff3acae1e62bc5e871a7350aa9cdcb24bd299b42875f0b020acb3620)
+
+  ​
+
+  ​
+
+  ​
