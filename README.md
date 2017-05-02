@@ -111,6 +111,14 @@
 
 * 包体
 
+  [智图压缩(腾讯出品)](http://zhitu.isux.us/)
+
+  [Android图片压缩工具，仿微信朋友圈压缩策略](https://github.com/Curzibn/Luban)
+
+  [Android图片压缩库](https://github.com/zetbaitsu/Compressor)
+
+  [Google图片压缩guetzli](https://github.com/google/guetzli)
+
   [Android Apk瘦身](http://wuxiaolong.me/2017/03/19/ReduceAPKSize/)
 
 * 内存
