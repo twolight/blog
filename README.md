@@ -25,6 +25,8 @@
 
   [一些关于加速Gradle构建的个人经验](http://droidyue.com/blog/2017/04/16/speedup-gradle-building/index.html)
 
+  [拆 JakeWharton 系列之 RxAndroid](http://www.jianshu.com/p/ed304bcd4246)
+
 * Android基础
 
   [进程的Binder线程池工作过程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2405)
