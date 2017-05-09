@@ -67,6 +67,8 @@
 
   [我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://www.jianshu.com/p/75a5c24174b2)
 
+  [Android 模块化探索与实践](https://zhuanlan.zhihu.com/p/26744821)
+
 
 
 * 兼容和适配
