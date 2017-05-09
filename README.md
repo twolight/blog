@@ -65,13 +65,17 @@
 
   [70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA)
 
+  [我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://www.jianshu.com/p/75a5c24174b2)
 
 
-* 适配
+
+* 兼容和适配
 
   [Android 状态栏着色实践](http://www.jianshu.com/p/bae25b5eb867)
 
   [Android7.0(Android N)适配教程，心得](http://blog.csdn.net/fengyuzhengfan/article/details/52688232)
+
+  [Android SO 文件的兼容和适配](http://blog.coderclock.com/2017/05/07/android/Android-so-files-compatibility-and-adaptation/)
 
 * 插件化
 
