@@ -29,6 +29,16 @@
 
 * Android基础
 
+  *  动画
+
+    [Android属性动画-上](http://blog.csdn.net/guolin_blog/article/details/43536355)
+
+     [Android属性动画-中](http://blog.csdn.net/guolin_blog/article/details/43816093)
+
+     [Android属性动画-下](http://blog.csdn.net/guolin_blog/article/details/44171115)
+
+    ​
+
   [进程的Binder线程池工作过程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2405)
 
   [Android5.0中 hwui 中 RenderThread 工作流程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2409)
@@ -42,6 +52,12 @@
   ​
 
 # 工具
+
+
+
+# 设计
+
+
 
 # 开发
 
@@ -94,6 +110,10 @@
 * 换肤
 
   [android 实现【夜晚模式】的另外一种思路](https://segmentfault.com/a/1190000005736047)
+
+* 组件
+
+  [aurora-imui：极光推送开源的通用IM聊天UI组件](http://link.zhihu.com/?target=https%3A//github.com/jpush/aurora-imui)
 
 # 发布
 
@@ -154,3 +174,7 @@
   ​
 
   ​
+
+# 简历
+
+[程序员优化你的简历](https://github.com/twolight/blog/blob/master/cv.md)
