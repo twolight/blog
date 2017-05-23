@@ -49,7 +49,15 @@
 
   [VectorDrawable使用分析系列](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0201/2396.html)
 
-  ​
+* HTTP/HTTPS
+
+  [HTTPS 原理浅析及其在 Android 中的使用](https://zhuanlan.zhihu.com/p/27040041)
+
+# Kotlin
+
+[Kotlin 资源大全 - 学 Kotlin 看这个就够了](https://juejin.im/post/591dd9f544d904006c9fbb96)
+
+[[Android\] 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
 
 # 工具
 
@@ -84,6 +92,8 @@
   [我一行代码都不写实现Toolbar!你却还在封装BaseActivity?](http://www.jianshu.com/p/75a5c24174b2)
 
   [Android 模块化探索与实践](https://zhuanlan.zhihu.com/p/26744821)
+
+  [Google 官方推出应用开发架构指南](https://zhuanlan.zhihu.com/p/27026614)
 
 
 
@@ -164,6 +174,8 @@
   [Android性能优化典范 - 第6季](http://hukai.me/android-performance-patterns-season-6/)
 
   [移动端APM性能监控](https://mp.weixin.qq.com/s/Yec5t2eU33Bv4srs5SPiTQ)
+
+  [[译]Android UI 性能优化](https://zhuanlan.zhihu.com/p/27065828)
 
 * 数据库
 
