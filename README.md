@@ -1,5 +1,5 @@
 # blog
-### Some useful Android blog
+### Some very useful blog about Android
 
 # 知识
 
