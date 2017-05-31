@@ -77,6 +77,8 @@
 
   [悦跑圈 Android 单业务开发，提高编译效率 15 倍](http://link.zhihu.com/?target=https%3A//www.diycode.cc/topics/761)
 
+  [Optimize Your Build Speed(官方)](https://docs.gradle.org/current/userguide/java_library_plugin.html)
+
 * 架构
 
   [有赞 App 模块化实战经验总结](http://link.zhihu.com/?target=https%3A//youzanmobile.github.io/2017/04/14/youzan-app-modularization/)
