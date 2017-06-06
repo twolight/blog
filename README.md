@@ -27,6 +27,10 @@
 
   [拆 JakeWharton 系列之 RxAndroid](http://www.jianshu.com/p/ed304bcd4246)
 
+* Java基础
+
+  [Java 技术之垃圾回收机制](http://wingjay.com/2017/05/24/Java-%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6/)
+
 * Android基础
 
   *  动画
@@ -58,6 +62,8 @@
 [Kotlin 资源大全 - 学 Kotlin 看这个就够了](https://juejin.im/post/591dd9f544d904006c9fbb96)
 
 [[Android\] 组件化的 Kotlin 适配 -- 迄今最强的 Kotlin 踩坑文章](https://juejin.im/post/5923efdca22b9d0058983f66)
+
+[你应该切换到 Kotlin 开发了](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/ec841df96f1e)
 
 # 工具
 
