@@ -41,7 +41,17 @@
 
      [Android属性动画-下](http://blog.csdn.net/guolin_blog/article/details/44171115)
 
-    ​
+  *  音视频
+
+     [Android视频开发进阶(part1-关于视频的那些术语)](http://www.jianshu.com/p/10e357946447)
+
+     [Android视频开发进阶(part2-MP4文件的解析)](http://www.jianshu.com/p/2b85c9bc3a12)
+
+     [Android视频开发进阶(part3-Android的Media API)](http://www.jianshu.com/p/667d69eec40c)
+
+     [Android视频开发进阶(part4-自适应视频播放技术(Adaptive Streaming))](http://www.jianshu.com/p/eea65d04b1a3)
+
+  ​
 
   [进程的Binder线程池工作过程](http://link.zhihu.com/?target=https%3A//www.diycode.cc/news/2405)
 
@@ -191,13 +201,6 @@
 
   ​
 
-  ​
-
-  ​
-
-  ​
-
-  ​
 
 
 
