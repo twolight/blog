@@ -41,7 +41,7 @@
 
      [Android属性动画-下](http://blog.csdn.net/guolin_blog/article/details/44171115)
 
-  *  音视频
+  * 音视频
 
      [Android视频开发进阶(part1-关于视频的那些术语)](http://www.jianshu.com/p/10e357946447)
 
@@ -75,6 +75,20 @@
 
 [你应该切换到 Kotlin 开发了](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/ec841df96f1e)
 
+
+
+# Gson
+
+[你真的会用Gson吗?Gson使用指南（一）](http://www.jianshu.com/p/e740196225a4)
+
+[你真的会用Gson吗?Gson使用指南（二）](http://www.jianshu.com/p/c88260adaf5e)
+
+[你真的会用Gson吗?Gson使用指南（三）](http://www.jianshu.com/p/0e40a52c0063)
+
+[你真的会用Gson吗?Gson使用指南（四）](http://www.jianshu.com/p/3108f1e44155)
+
+
+
 # 工具
 
 
@@ -93,7 +107,7 @@
 
   [悦跑圈 Android 单业务开发，提高编译效率 15 倍](http://link.zhihu.com/?target=https%3A//www.diycode.cc/topics/761)
 
-  [Optimize Your Build Speed(官方)](https://docs.gradle.org/current/userguide/java_library_plugin.html)
+  [Optimize Your Build Speed(官方)](https://developer.android.com/studio/build/optimize-your-build.html)
 
 * 架构
 
@@ -112,6 +126,10 @@
   [Android 模块化探索与实践](https://zhuanlan.zhihu.com/p/26744821)
 
   [Google 官方推出应用开发架构指南](https://zhuanlan.zhihu.com/p/27026614)
+
+  [App开发架构指南（谷歌官方文档译文)](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2017/0523/7963.html)
+
+  ​
 
 
 
