@@ -89,6 +89,30 @@
 
 # Rxjava
 
+[RxJava（一） create操作符的用法和源码分析](http://blog.csdn.net/johnny901114/article/details/51524470)
+
+[RxJava（二） map操作符用法详解](http://blog.csdn.net/johnny901114/article/details/51531348)
+
+[RxJava（三） flatMap操作符用法详解](http://blog.csdn.net/johnny901114/article/details/51532776)
+
+[RxJava（四） concatMap操作符用法详解](http://blog.csdn.net/johnny901114/article/details/51533282)
+
+[RxJava（五） onErrorResumeNext操作符实现app与服务器间token机制](http://blog.csdn.net/johnny901114/article/details/51533586)
+
+[RxJava（六） retryWhen操作符实现错误重试机制](http://blog.csdn.net/johnny901114/article/details/51539708)
+
+[RxJava（七） 使用debounce操作符 优化app搜索功能](http://blog.csdn.net/johnny901114/article/details/51555203)
+
+[RxJava（八）concat符操作处理多数据源](http://blog.csdn.net/johnny901114/article/details/51568562)
+
+[RxJava（九）zip操作符在Android中的实际使用场景](http://blog.csdn.net/johnny901114/article/details/51614927)
+
+[RxJava（十）switchIfEmpty操作符实现Android检查本地缓存逻辑判断](http://blog.csdn.net/johnny901114/article/details/52585912)
+
+[RxJava（十一）defer操作符实现代码支持链式调用](http://blog.csdn.net/johnny901114/article/details/52597643)
+
+[RxJava（十三）RxJava导致Fragment Activity内存泄漏问题](http://blog.csdn.net/johnny901114/article/details/67640594)
+
 
 
 # Gson
