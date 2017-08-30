@@ -33,6 +33,12 @@
 
 * Android基础
 
+  * 自定义View
+
+    [自定义View教程](http://link.zhihu.com/?target=https%3A//xiaozhuanlan.com/androidview)
+
+    ​
+
   *  动画
 
     [Android属性动画-上](http://blog.csdn.net/guolin_blog/article/details/43536355)
@@ -75,11 +81,15 @@
 
 [你应该切换到 Kotlin 开发了](http://link.zhihu.com/?target=http%3A//www.jianshu.com/p/ec841df96f1e)
 
+[Kotlin Primer](https://xiaozhuanlan.com/kotlinlang)
+
+
+
 
 
 # OKHttp
 
-
+[拆轮子系列：拆 OkHttp](http://blog.piasy.com/2016/07/11/Understand-OkHttp/)
 
 # Retrofit
 
@@ -257,6 +267,10 @@
 
   ​
 
+
+# 专栏
+
+[Android 开发实战(D_clock爱吃葱花)](https://xiaozhuanlan.com/androidshizhan)
 
 
 
