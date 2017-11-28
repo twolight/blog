@@ -137,6 +137,16 @@
 
 
 
+# Dagger2
+
+[神兵利器Dagger2](https://zhuanlan.zhihu.com/p/24454466)
+
+[Dagger2 User's Guide(翻译) - CSDN博客](http://blog.csdn.net/shangmingchao/article/details/68488992)
+
+[告别Dagger2模板代码：Dagger Android使用详解](http://blog.csdn.net/mq2553299/article/details/77485800)
+
+
+
 # 工具
 
 
